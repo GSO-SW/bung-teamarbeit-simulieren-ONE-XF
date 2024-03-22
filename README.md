@@ -10,6 +10,7 @@
   - 1x git Bash und 1x Dateiexplorer (*User 2*)
 
  Änderung user 1
+ Änderung user 2
 
 ## :pushpin: Aufgabenblatt:
 
